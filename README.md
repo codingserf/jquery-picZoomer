@@ -1,5 +1,5 @@
 # jquery-picZoomer 图片放大镜插件
 
-usage:
+用法请先看demo.html。
 
 
